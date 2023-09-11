@@ -15,7 +15,7 @@
 
     <properties>
         <jre>1.8</jre>
-        <org.projectlombok.lombok>1.16.16</org.projectlombok.lombok>
+        <org.projectlombok.lombok>1.18.28</org.projectlombok.lombok>
         <com.alibaba.fastjson>1.2.69</com.alibaba.fastjson>
         <com.101tec.zkclient>0.10</com.101tec.zkclient>
         <org.mybatis.spring.boot.mybatis-spring-boot-starter>2.0.1</org.mybatis.spring.boot.mybatis-spring-boot-starter>
