@@ -22,7 +22,7 @@
         <mysql.mysql-connector-java>8.0.28</mysql.mysql-connector-java>
         <org.slf4j.slf4j-api>1.6.1</org.slf4j.slf4j-api>
         <com.squareup.okhttp3.okhttp>3.14.1</com.squareup.okhttp3.okhttp>
-        <org.apache.curator.curator-recipes>2.13.0</org.apache.curator.curator-recipes>
+        <org.apache.curator.curator-recipes>5.6.0</org.apache.curator.curator-recipes>
     </properties>
     <modules>
         <module>basic</module>
